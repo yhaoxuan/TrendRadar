@@ -1,12 +1,23 @@
 Google
 Microsoft
-OpenAI
-Anthropic
-Agent
-Agentic
 谷歌
 微软
 苹果
-智能体
-人工智能
 +AI
+
+OpenAI
+Anthropic
+LLM
+大模型
+大语言模型
+多模态大模型
+Agent
+智能体
+Agentic
+人工智能
+Agentic RL
+
+MCP
+
+AI音视频通话
+AI realtime
