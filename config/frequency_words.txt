@@ -4,4 +4,9 @@ OpenAI
 Anthropic
 Agent
 Agentic
+谷歌
+微软
+苹果
+智能体
+人工智能
 +AI
